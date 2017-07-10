@@ -97,8 +97,8 @@
 		B5036A261F14034A00ACD31C /* Colour Swap */ = {
 			isa = PBXGroup;
 			children = (
-				B5036A271F14034A00ACD31C /* AppDelegate.swift */,
 				B5036A291F14034A00ACD31C /* ViewController.swift */,
+				B5036A271F14034A00ACD31C /* AppDelegate.swift */,
 				B5036A2B1F14034A00ACD31C /* Main.storyboard */,
 				B5036A2E1F14034A00ACD31C /* Assets.xcassets */,
 				B5036A301F14034A00ACD31C /* LaunchScreen.storyboard */,
