@@ -82,6 +82,9 @@
                                 <state key="normal" title="A">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="giz-cX-dyq" kind="show" id="7aB-Ju-DVP"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nVN-cW-yzP">
                                 <rect key="frame" x="70" y="167" width="30" height="30"/>
@@ -91,6 +94,9 @@
                                 <state key="normal" title="B">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="giz-cX-dyq" kind="show" id="ecQ-WD-IRH"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="u6b-3v-I3O">
                                 <rect key="frame" x="70" y="202" width="30" height="30"/>
@@ -100,6 +106,9 @@
                                 <state key="normal" title="C">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="giz-cX-dyq" kind="show" id="3ZR-z9-G3N"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VKN-SM-8jj">
                                 <rect key="frame" x="70" y="237" width="30" height="30"/>
@@ -109,6 +118,9 @@
                                 <state key="normal" title="D">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="giz-cX-dyq" kind="show" id="sGG-ng-ENw"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6ew-Y4-wN2">
                                 <rect key="frame" x="70" y="272" width="30" height="30"/>
@@ -118,6 +130,9 @@
                                 <state key="normal" title="E">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="giz-cX-dyq" kind="show" id="gix-Ql-Dfj"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QWs-0m-X5B">
                                 <rect key="frame" x="70" y="307" width="30" height="30"/>
@@ -127,6 +142,9 @@
                                 <state key="normal" title="F">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="giz-cX-dyq" kind="show" id="Z6a-Hi-uYe"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="E3x-OD-prR">
                                 <rect key="frame" x="70" y="342" width="30" height="30"/>
@@ -136,6 +154,9 @@
                                 <state key="normal" title="G">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="giz-cX-dyq" kind="show" id="Vqj-c0-W3e"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sGx-Mc-LQ3">
                                 <rect key="frame" x="70" y="377" width="30" height="30"/>
@@ -145,6 +166,9 @@
                                 <state key="normal" title="H">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="giz-cX-dyq" kind="show" id="Uik-hd-3fT"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wI3-fm-8nY">
                                 <rect key="frame" x="70" y="412" width="30" height="30"/>
@@ -154,6 +178,9 @@
                                 <state key="normal" title="I">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="giz-cX-dyq" kind="show" id="J3a-Ep-0dg"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hG9-JP-5EN">
                                 <rect key="frame" x="70" y="447" width="30" height="30"/>
@@ -163,6 +190,9 @@
                                 <state key="normal" title="J">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="giz-cX-dyq" kind="show" id="T31-sA-yaf"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6Q0-Dw-72X">
                                 <rect key="frame" x="70" y="482" width="30" height="30"/>
@@ -172,6 +202,9 @@
                                 <state key="normal" title="K">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="giz-cX-dyq" kind="show" id="Dym-KC-v9U"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="INU-Q5-1qk">
                                 <rect key="frame" x="70" y="517" width="30" height="30"/>
@@ -181,6 +214,9 @@
                                 <state key="normal" title="L">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="giz-cX-dyq" kind="show" id="pv8-gr-iVJ"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vC7-Qt-WJb">
                                 <rect key="frame" x="70" y="552" width="30" height="30"/>
@@ -190,6 +226,9 @@
                                 <state key="normal" title="M">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="giz-cX-dyq" kind="show" id="DYc-U8-iZC"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GEr-Ad-Xjg">
                                 <rect key="frame" x="281" y="132" width="30" height="30"/>
@@ -199,6 +238,9 @@
                                 <state key="normal" title="N">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="giz-cX-dyq" kind="show" id="VGL-Sk-ADv"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6Tu-XA-d1H">
                                 <rect key="frame" x="281" y="167" width="30" height="30"/>
@@ -208,6 +250,9 @@
                                 <state key="normal" title="O">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="giz-cX-dyq" kind="show" id="mfS-7k-hb8"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Eh1-tO-cqK">
                                 <rect key="frame" x="281" y="202" width="30" height="30"/>
@@ -217,6 +262,9 @@
                                 <state key="normal" title="P">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="giz-cX-dyq" kind="show" id="R6X-WG-dvm"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="AN3-zN-CNZ">
                                 <rect key="frame" x="281" y="237" width="30" height="30"/>
@@ -226,6 +274,9 @@
                                 <state key="normal" title="Q">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="giz-cX-dyq" kind="show" id="Yhk-85-1up"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="RzR-0q-STE">
                                 <rect key="frame" x="281" y="272" width="30" height="30"/>
@@ -235,6 +286,9 @@
                                 <state key="normal" title="R">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="giz-cX-dyq" kind="show" id="5SO-fu-5Kh"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MM5-8S-o5G">
                                 <rect key="frame" x="281" y="307" width="30" height="30"/>
@@ -244,6 +298,9 @@
                                 <state key="normal" title="S">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="giz-cX-dyq" kind="show" id="Tli-Rg-09K"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6vd-La-iz5">
                                 <rect key="frame" x="281" y="342" width="30" height="30"/>
@@ -253,6 +310,9 @@
                                 <state key="normal" title="T">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="giz-cX-dyq" kind="show" id="Nq4-Oo-psu"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zEO-R4-23d">
                                 <rect key="frame" x="281" y="377" width="30" height="30"/>
@@ -262,6 +322,9 @@
                                 <state key="normal" title="U">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="giz-cX-dyq" kind="show" id="22w-Bg-azX"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cOm-Rp-qJ6">
                                 <rect key="frame" x="281" y="447" width="30" height="30"/>
@@ -271,6 +334,9 @@
                                 <state key="normal" title="W">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="giz-cX-dyq" kind="show" id="Qjk-HD-Qbx"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="E6V-0i-Qfq">
                                 <rect key="frame" x="281" y="412" width="30" height="30"/>
@@ -280,6 +346,9 @@
                                 <state key="normal" title="V">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="giz-cX-dyq" kind="show" id="gGV-6E-WaP"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4E1-8r-FqV">
                                 <rect key="frame" x="281" y="482" width="30" height="30"/>
@@ -289,6 +358,9 @@
                                 <state key="normal" title="X">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="giz-cX-dyq" kind="show" id="vbw-ZM-fQG"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gTL-nD-FcM">
                                 <rect key="frame" x="281" y="517" width="30" height="30"/>
@@ -298,6 +370,9 @@
                                 <state key="normal" title="Y">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="giz-cX-dyq" kind="show" id="V8h-Nz-b3y"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xQM-dS-015">
                                 <rect key="frame" x="281" y="552" width="30" height="30"/>
@@ -307,6 +382,9 @@
                                 <state key="normal" title="Z">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="giz-cX-dyq" kind="show" id="RGF-2t-wve"/>
+                                </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Choose a Letter to Learn!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ucb-4d-XwW">
                                 <rect key="frame" x="44" y="28" width="287" height="21"/>
@@ -323,8 +401,50 @@
             </objects>
             <point key="canvasLocation" x="576.79999999999995" y="138.98050974512745"/>
         </scene>
+        <!--View Controller-->
+        <scene sceneID="FWb-rK-ulF">
+            <objects>
+                <viewController id="giz-cX-dyq" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Aux-c3-QVy"/>
+                        <viewControllerLayoutGuide type="bottom" id="kDJ-xF-wyV"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="SF2-uX-5mw">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Letter Sentence" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="5" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="slN-8n-T86">
+                                <rect key="frame" x="16" y="369" width="343" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vfk-rz-crT">
+                                <rect key="frame" x="154" y="431" width="67" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Audio File"/>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Letter" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OAZ-5W-SmL">
+                                <rect key="frame" x="121" y="242" width="132" height="33"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="38"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="ZHw-t7-KWG" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1221.5999999999999" y="138.98050974512745"/>
+        </scene>
     </scenes>
     <resources>
         <image name="Digital-background" width="425" height="282"/>
     </resources>
+    <inferredMetricsTieBreakers>
+        <segue reference="vbw-ZM-fQG"/>
+    </inferredMetricsTieBreakers>
 </document>
