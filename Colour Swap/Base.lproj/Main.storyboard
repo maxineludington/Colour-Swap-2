@@ -88,9 +88,6 @@
                                 <state key="normal" title="A">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
-                                <connections>
-                                    <action selector="onButtonPressedA:" destination="OC6-ML-PJd" eventType="touchUpInside" id="Zth-cy-wdo"/>
-                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nVN-cW-yzP">
                                 <rect key="frame" x="71" y="129" width="30" height="36"/>
@@ -99,9 +96,6 @@
                                 <state key="normal" title="B">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
-                                <connections>
-                                    <action selector="onButtonPressedB:" destination="OC6-ML-PJd" eventType="touchUpInside" id="n1U-yS-ERY"/>
-                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="u6b-3v-I3O">
                                 <rect key="frame" x="71" y="167" width="30" height="36"/>
@@ -110,9 +104,6 @@
                                 <state key="normal" title="C">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
-                                <connections>
-                                    <action selector="onButtonPressedC:" destination="OC6-ML-PJd" eventType="touchUpInside" id="wv9-Td-kZS"/>
-                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VKN-SM-8jj">
                                 <rect key="frame" x="71" y="205" width="30" height="36"/>
@@ -121,9 +112,6 @@
                                 <state key="normal" title="D">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
-                                <connections>
-                                    <action selector="onButtonPressedD:" destination="OC6-ML-PJd" eventType="touchUpInside" id="47x-63-j01"/>
-                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6ew-Y4-wN2">
                                 <rect key="frame" x="71" y="243" width="30" height="36"/>
@@ -132,9 +120,6 @@
                                 <state key="normal" title="E">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
-                                <connections>
-                                    <action selector="onButtonPressedE:" destination="OC6-ML-PJd" eventType="touchUpInside" id="ms9-me-FvR"/>
-                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QWs-0m-X5B">
                                 <rect key="frame" x="71" y="281" width="30" height="36"/>
@@ -143,9 +128,6 @@
                                 <state key="normal" title="F">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
-                                <connections>
-                                    <action selector="onButtonPressedF:" destination="OC6-ML-PJd" eventType="touchUpInside" id="DZF-GG-vbW"/>
-                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="E3x-OD-prR">
                                 <rect key="frame" x="71" y="320" width="30" height="36"/>
@@ -154,9 +136,6 @@
                                 <state key="normal" title="G">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
-                                <connections>
-                                    <action selector="onButtonPressedG:" destination="OC6-ML-PJd" eventType="touchUpInside" id="be2-5Z-NWr"/>
-                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sGx-Mc-LQ3">
                                 <rect key="frame" x="71" y="358" width="30" height="36"/>
@@ -165,9 +144,6 @@
                                 <state key="normal" title="H">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
-                                <connections>
-                                    <action selector="onButtonPressedH:" destination="OC6-ML-PJd" eventType="touchUpInside" id="tgU-sK-vOe"/>
-                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wI3-fm-8nY">
                                 <rect key="frame" x="71" y="396" width="30" height="36"/>
@@ -176,9 +152,6 @@
                                 <state key="normal" title="I">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
-                                <connections>
-                                    <action selector="onButtonPressedI:" destination="OC6-ML-PJd" eventType="touchUpInside" id="QZc-7Y-AvN"/>
-                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hG9-JP-5EN">
                                 <rect key="frame" x="71" y="434" width="30" height="36"/>
@@ -187,9 +160,6 @@
                                 <state key="normal" title="J">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
-                                <connections>
-                                    <action selector="onButtonPressedJ:" destination="OC6-ML-PJd" eventType="touchUpInside" id="n5l-7k-mCS"/>
-                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6Q0-Dw-72X">
                                 <rect key="frame" x="71" y="472" width="30" height="36"/>
@@ -198,9 +168,6 @@
                                 <state key="normal" title="K">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
-                                <connections>
-                                    <action selector="onButtonPressedK:" destination="OC6-ML-PJd" eventType="touchUpInside" id="90C-8c-wBL"/>
-                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="INU-Q5-1qk">
                                 <rect key="frame" x="71" y="510" width="30" height="36"/>
@@ -209,9 +176,6 @@
                                 <state key="normal" title="L">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
-                                <connections>
-                                    <action selector="onButtonPressedL:" destination="OC6-ML-PJd" eventType="touchUpInside" id="F5V-co-ac6"/>
-                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vC7-Qt-WJb">
                                 <rect key="frame" x="71" y="545" width="30" height="36"/>
@@ -220,9 +184,6 @@
                                 <state key="normal" title="M">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
-                                <connections>
-                                    <action selector="onButtonPressedM:" destination="OC6-ML-PJd" eventType="touchUpInside" id="67X-uZ-ak8"/>
-                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GEr-Ad-Xjg">
                                 <rect key="frame" x="281" y="91" width="30" height="36"/>
@@ -231,9 +192,6 @@
                                 <state key="normal" title="N">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
-                                <connections>
-                                    <action selector="onButtonPressedN:" destination="OC6-ML-PJd" eventType="touchUpInside" id="4DC-7O-yFw"/>
-                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6Tu-XA-d1H">
                                 <rect key="frame" x="281" y="129" width="30" height="36"/>
@@ -242,9 +200,6 @@
                                 <state key="normal" title="O">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
-                                <connections>
-                                    <action selector="onButtonPressedO:" destination="OC6-ML-PJd" eventType="touchUpInside" id="aFf-Z0-a8E"/>
-                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Eh1-tO-cqK">
                                 <rect key="frame" x="281" y="167" width="30" height="36"/>
@@ -253,9 +208,6 @@
                                 <state key="normal" title="P">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
-                                <connections>
-                                    <action selector="onButtonPressedP:" destination="OC6-ML-PJd" eventType="touchUpInside" id="tuF-0B-0CK"/>
-                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="AN3-zN-CNZ">
                                 <rect key="frame" x="281" y="205" width="30" height="36"/>
@@ -264,9 +216,6 @@
                                 <state key="normal" title="Q">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
-                                <connections>
-                                    <action selector="onButtonPressedQ:" destination="OC6-ML-PJd" eventType="touchUpInside" id="Sor-QO-YCy"/>
-                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="RzR-0q-STE">
                                 <rect key="frame" x="281" y="243" width="30" height="36"/>
@@ -275,9 +224,6 @@
                                 <state key="normal" title="R">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
-                                <connections>
-                                    <action selector="onButtonPressedR:" destination="OC6-ML-PJd" eventType="touchUpInside" id="hef-cZ-ieb"/>
-                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MM5-8S-o5G">
                                 <rect key="frame" x="281" y="281" width="30" height="36"/>
@@ -286,9 +232,6 @@
                                 <state key="normal" title="S">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
-                                <connections>
-                                    <action selector="onButtonPressedS:" destination="OC6-ML-PJd" eventType="touchUpInside" id="Uad-jU-hn0"/>
-                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6vd-La-iz5">
                                 <rect key="frame" x="281" y="320" width="30" height="36"/>
@@ -297,9 +240,6 @@
                                 <state key="normal" title="T">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
-                                <connections>
-                                    <action selector="onButtonPressedT:" destination="OC6-ML-PJd" eventType="touchUpInside" id="M95-Fp-z1s"/>
-                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zEO-R4-23d">
                                 <rect key="frame" x="281" y="358" width="30" height="36"/>
@@ -308,9 +248,6 @@
                                 <state key="normal" title="U">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
-                                <connections>
-                                    <action selector="onButtonPressedU:" destination="OC6-ML-PJd" eventType="touchUpInside" id="Jac-rR-W4j"/>
-                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cOm-Rp-qJ6">
                                 <rect key="frame" x="281" y="434" width="30" height="36"/>
@@ -319,9 +256,6 @@
                                 <state key="normal" title="W">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
-                                <connections>
-                                    <action selector="onButtonPressedW:" destination="OC6-ML-PJd" eventType="touchUpInside" id="SyK-1I-qJa"/>
-                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="E6V-0i-Qfq">
                                 <rect key="frame" x="281" y="396" width="30" height="36"/>
@@ -330,9 +264,6 @@
                                 <state key="normal" title="V">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
-                                <connections>
-                                    <action selector="onButtonPressedV:" destination="OC6-ML-PJd" eventType="touchUpInside" id="Jf6-4D-aXg"/>
-                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4E1-8r-FqV">
                                 <rect key="frame" x="281" y="472" width="30" height="36"/>
@@ -341,9 +272,6 @@
                                 <state key="normal" title="X">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
-                                <connections>
-                                    <action selector="onButtonPressedX:" destination="OC6-ML-PJd" eventType="touchUpInside" id="mIc-XV-E6z"/>
-                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gTL-nD-FcM">
                                 <rect key="frame" x="281" y="510" width="30" height="36"/>
@@ -352,9 +280,6 @@
                                 <state key="normal" title="Y">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
-                                <connections>
-                                    <action selector="onButtonPressedY:" destination="OC6-ML-PJd" eventType="touchUpInside" id="Odi-Lt-5IF"/>
-                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xQM-dS-015">
                                 <rect key="frame" x="281" y="545" width="30" height="36"/>
@@ -363,9 +288,6 @@
                                 <state key="normal" title="Z">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
-                                <connections>
-                                    <action selector="onButtonPressedZ:" destination="OC6-ML-PJd" eventType="touchUpInside" id="rDw-e8-Mfd"/>
-                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
