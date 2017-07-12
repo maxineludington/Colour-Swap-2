@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12121" systemVersion="16F73" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12121" systemVersion="16F2073" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
@@ -63,10 +63,10 @@
             </objects>
             <point key="canvasLocation" x="-60" y="139"/>
         </scene>
-        <!--View Controller-->
+        <!--Alhpabet View-->
         <scene sceneID="DRh-cq-ESo">
             <objects>
-                <viewController id="OC6-ML-PJd" sceneMemberID="viewController">
+                <viewController id="OC6-ML-PJd" customClass="AlhpabetView" customModule="Colour_Swap" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="pJF-jK-zhC"/>
                         <viewControllerLayoutGuide type="bottom" id="Q1f-H2-DbV"/>
@@ -87,6 +87,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
+                                    <action selector="onButtonPressedA:" destination="OC6-ML-PJd" eventType="touchUpInside" id="Bsd-qW-kN4"/>
                                     <segue destination="giz-cX-dyq" kind="show" id="7aB-Ju-DVP"/>
                                 </connections>
                             </button>
@@ -98,6 +99,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
+                                    <action selector="onButtonPressedB:" destination="OC6-ML-PJd" eventType="touchUpInside" id="EUN-kD-gJn"/>
                                     <segue destination="giz-cX-dyq" kind="show" id="ecQ-WD-IRH"/>
                                 </connections>
                             </button>
@@ -109,6 +111,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
+                                    <action selector="onButtonPressedC:" destination="OC6-ML-PJd" eventType="touchUpInside" id="atL-6S-uFk"/>
                                     <segue destination="giz-cX-dyq" kind="show" id="3ZR-z9-G3N"/>
                                 </connections>
                             </button>
@@ -120,6 +123,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
+                                    <action selector="onButtonPressedD:" destination="OC6-ML-PJd" eventType="touchUpInside" id="ccK-5u-atl"/>
                                     <segue destination="giz-cX-dyq" kind="show" id="sGG-ng-ENw"/>
                                 </connections>
                             </button>
@@ -131,6 +135,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
+                                    <action selector="onButtonPressedE:" destination="OC6-ML-PJd" eventType="touchUpInside" id="dJj-xg-YQi"/>
                                     <segue destination="giz-cX-dyq" kind="show" id="gix-Ql-Dfj"/>
                                 </connections>
                             </button>
@@ -142,6 +147,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
+                                    <action selector="onButtonPressedF:" destination="OC6-ML-PJd" eventType="touchUpInside" id="39U-Mm-OMP"/>
                                     <segue destination="giz-cX-dyq" kind="show" id="Z6a-Hi-uYe"/>
                                 </connections>
                             </button>
@@ -153,6 +159,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
+                                    <action selector="onButtonPressedG:" destination="OC6-ML-PJd" eventType="touchUpInside" id="Yn7-en-GiU"/>
                                     <segue destination="giz-cX-dyq" kind="show" id="Vqj-c0-W3e"/>
                                 </connections>
                             </button>
@@ -164,6 +171,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
+                                    <action selector="onButtonPressedH:" destination="OC6-ML-PJd" eventType="touchUpInside" id="0N6-Uz-Cy9"/>
                                     <segue destination="giz-cX-dyq" kind="show" id="Uik-hd-3fT"/>
                                 </connections>
                             </button>
@@ -175,6 +183,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
+                                    <action selector="onButtonPressedI:" destination="OC6-ML-PJd" eventType="touchUpInside" id="seP-eM-Hvv"/>
                                     <segue destination="giz-cX-dyq" kind="show" id="J3a-Ep-0dg"/>
                                 </connections>
                             </button>
@@ -186,6 +195,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
+                                    <action selector="onButtonPressedJ:" destination="OC6-ML-PJd" eventType="touchUpInside" id="UnU-M2-Mp1"/>
                                     <segue destination="giz-cX-dyq" kind="show" id="T31-sA-yaf"/>
                                 </connections>
                             </button>
@@ -197,6 +207,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
+                                    <action selector="onButtonPressedK:" destination="OC6-ML-PJd" eventType="touchUpInside" id="v21-Pn-J0v"/>
                                     <segue destination="giz-cX-dyq" kind="show" id="Dym-KC-v9U"/>
                                 </connections>
                             </button>
@@ -208,6 +219,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
+                                    <action selector="onButtonPressedL:" destination="OC6-ML-PJd" eventType="touchUpInside" id="Jmf-Ma-UD8"/>
                                     <segue destination="giz-cX-dyq" kind="show" id="pv8-gr-iVJ"/>
                                 </connections>
                             </button>
@@ -219,6 +231,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
+                                    <action selector="onButtonPressedM:" destination="OC6-ML-PJd" eventType="touchUpInside" id="oix-eB-q0k"/>
                                     <segue destination="giz-cX-dyq" kind="show" id="DYc-U8-iZC"/>
                                 </connections>
                             </button>
@@ -230,6 +243,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
+                                    <action selector="onButtonPressedN:" destination="OC6-ML-PJd" eventType="touchUpInside" id="xpo-Wc-asf"/>
                                     <segue destination="giz-cX-dyq" kind="show" id="VGL-Sk-ADv"/>
                                 </connections>
                             </button>
@@ -241,6 +255,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
+                                    <action selector="onButtonPressedO:" destination="OC6-ML-PJd" eventType="touchUpInside" id="eFi-w5-jp7"/>
                                     <segue destination="giz-cX-dyq" kind="show" id="mfS-7k-hb8"/>
                                 </connections>
                             </button>
@@ -252,6 +267,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
+                                    <action selector="onButtonPressedP:" destination="OC6-ML-PJd" eventType="touchUpInside" id="v1j-Sy-mS9"/>
                                     <segue destination="giz-cX-dyq" kind="show" id="R6X-WG-dvm"/>
                                 </connections>
                             </button>
@@ -263,6 +279,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
+                                    <action selector="onButtonPressedQ:" destination="OC6-ML-PJd" eventType="touchUpInside" id="eDg-JA-QnW"/>
                                     <segue destination="giz-cX-dyq" kind="show" id="Yhk-85-1up"/>
                                 </connections>
                             </button>
@@ -274,6 +291,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
+                                    <action selector="onButtonPressedR:" destination="OC6-ML-PJd" eventType="touchUpInside" id="gWA-OJ-VQV"/>
                                     <segue destination="giz-cX-dyq" kind="show" id="5SO-fu-5Kh"/>
                                 </connections>
                             </button>
@@ -285,6 +303,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
+                                    <action selector="onButtonPressedS:" destination="OC6-ML-PJd" eventType="touchUpInside" id="otU-gZ-5X1"/>
                                     <segue destination="giz-cX-dyq" kind="show" id="Tli-Rg-09K"/>
                                 </connections>
                             </button>
@@ -296,6 +315,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
+                                    <action selector="onButtonPressedT:" destination="OC6-ML-PJd" eventType="touchUpInside" id="yKN-mr-o0a"/>
                                     <segue destination="giz-cX-dyq" kind="show" id="Nq4-Oo-psu"/>
                                 </connections>
                             </button>
@@ -307,6 +327,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
+                                    <action selector="onButtonPressedU:" destination="OC6-ML-PJd" eventType="touchUpInside" id="gql-hm-yMt"/>
                                     <segue destination="giz-cX-dyq" kind="show" id="22w-Bg-azX"/>
                                 </connections>
                             </button>
@@ -318,6 +339,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
+                                    <action selector="onButtonPressedW:" destination="OC6-ML-PJd" eventType="touchUpInside" id="Qxi-Ui-W9B"/>
                                     <segue destination="giz-cX-dyq" kind="show" id="Qjk-HD-Qbx"/>
                                 </connections>
                             </button>
@@ -329,6 +351,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
+                                    <action selector="onButtonPressedV:" destination="OC6-ML-PJd" eventType="touchUpInside" id="yVP-Ia-ovw"/>
                                     <segue destination="giz-cX-dyq" kind="show" id="gGV-6E-WaP"/>
                                 </connections>
                             </button>
@@ -340,6 +363,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
+                                    <action selector="onButtonPressedX:" destination="OC6-ML-PJd" eventType="touchUpInside" id="2bE-HC-sgd"/>
                                     <segue destination="giz-cX-dyq" kind="show" id="vbw-ZM-fQG"/>
                                 </connections>
                             </button>
@@ -351,6 +375,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
+                                    <action selector="onButtonPressedY:" destination="OC6-ML-PJd" eventType="touchUpInside" id="CjU-bQ-Ozb"/>
                                     <segue destination="giz-cX-dyq" kind="show" id="V8h-Nz-b3y"/>
                                 </connections>
                             </button>
@@ -362,6 +387,7 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
+                                    <action selector="onButtonPressedZ:" destination="OC6-ML-PJd" eventType="touchUpInside" id="bhK-XN-L9T"/>
                                     <segue destination="giz-cX-dyq" kind="show" id="RGF-2t-wve"/>
                                 </connections>
                             </button>
@@ -403,7 +429,6 @@
                             <constraint firstItem="MM5-8S-o5G" firstAttribute="centerY" secondItem="1vE-aa-TBX" secondAttribute="centerY" constant="-11.5" id="ICE-VS-8G4"/>
                             <constraint firstItem="4E1-8r-FqV" firstAttribute="centerX" secondItem="1vE-aa-TBX" secondAttribute="centerX" constant="108.5" id="IJv-jx-nzs"/>
                             <constraint firstItem="E6V-0i-Qfq" firstAttribute="centerX" secondItem="1vE-aa-TBX" secondAttribute="centerX" constant="108.5" id="KQ0-lj-3ii"/>
-                            <constraint firstItem="YiG-2g-yyq" firstAttribute="centerX" secondItem="1vE-aa-TBX" secondAttribute="centerX" id="Nsa-BE-MaK"/>
                             <constraint firstItem="6Q0-Dw-72X" firstAttribute="centerY" secondItem="1vE-aa-TBX" secondAttribute="centerY" constant="163.5" id="PHe-mD-XUb"/>
                             <constraint firstItem="Eh1-tO-cqK" firstAttribute="centerX" secondItem="1vE-aa-TBX" secondAttribute="centerX" constant="108.5" id="PXx-Rd-jV6"/>
                             <constraint firstItem="6vd-La-iz5" firstAttribute="centerX" secondItem="1vE-aa-TBX" secondAttribute="centerX" constant="108.5" id="QhV-V3-Sws"/>
@@ -417,7 +442,6 @@
                             <constraint firstItem="6ew-Y4-wN2" firstAttribute="centerX" secondItem="1vE-aa-TBX" secondAttribute="centerX" constant="-102.5" id="WG4-MT-bLf"/>
                             <constraint firstItem="hG9-JP-5EN" firstAttribute="centerY" secondItem="1vE-aa-TBX" secondAttribute="centerY" constant="128.5" id="Y98-If-QiO"/>
                             <constraint firstItem="cOm-Rp-qJ6" firstAttribute="centerY" secondItem="1vE-aa-TBX" secondAttribute="centerY" constant="128.5" id="aWF-xD-LFQ"/>
-                            <constraint firstItem="YiG-2g-yyq" firstAttribute="centerY" secondItem="1vE-aa-TBX" secondAttribute="centerY" constant="293" id="agJ-dn-ecd"/>
                             <constraint firstItem="sGx-Mc-LQ3" firstAttribute="centerX" secondItem="1vE-aa-TBX" secondAttribute="centerX" constant="-102.5" id="am3-5u-MBW"/>
                             <constraint firstItem="gTL-nD-FcM" firstAttribute="centerY" secondItem="1vE-aa-TBX" secondAttribute="centerY" constant="198.5" id="bBl-RL-naj"/>
                             <constraint firstItem="VKN-SM-8jj" firstAttribute="centerX" secondItem="1vE-aa-TBX" secondAttribute="centerX" constant="-102.5" id="d5D-ln-OoD"/>
@@ -445,10 +469,10 @@
             </objects>
             <point key="canvasLocation" x="576.79999999999995" y="138.98050974512745"/>
         </scene>
-        <!--View Controller-->
+        <!--Information View-->
         <scene sceneID="FWb-rK-ulF">
             <objects>
-                <viewController id="giz-cX-dyq" sceneMemberID="viewController">
+                <viewController id="giz-cX-dyq" customClass="informationView" customModule="Colour_Swap" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Aux-c3-QVy"/>
                         <viewControllerLayoutGuide type="bottom" id="kDJ-xF-wyV"/>
@@ -499,6 +523,10 @@
                             <constraint firstItem="2Ul-7X-HDg" firstAttribute="centerY" secondItem="SF2-uX-5mw" secondAttribute="centerY" constant="298.5" id="ozm-bZ-H3e"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="exampleSentenceLabel" destination="slN-8n-T86" id="afh-sf-5Nt"/>
+                        <outlet property="letterChosenLabel" destination="OAZ-5W-SmL" id="9um-aY-9MC"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ZHw-t7-KWG" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -509,7 +537,7 @@
         <image name="Digital-background" width="425" height="282"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="imx-W0-v45"/>
+        <segue reference="TXx-W8-tcW"/>
         <segue reference="vbw-ZM-fQG"/>
     </inferredMetricsTieBreakers>
 </document>
