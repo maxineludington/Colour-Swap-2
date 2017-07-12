@@ -14,7 +14,7 @@
 		B5036A321F14034A00ACD31C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5036A301F14034A00ACD31C /* LaunchScreen.storyboard */; };
 		B5036A3D1F14034A00ACD31C /* Colour_SwapTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5036A3C1F14034A00ACD31C /* Colour_SwapTests.swift */; };
 		B5036A481F14034A00ACD31C /* Colour_SwapUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5036A471F14034A00ACD31C /* Colour_SwapUITests.swift */; };
-		DAE5C4181F1556A1003C1221 /* AlhpabetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAE5C4171F1556A1003C1221 /* AlhpabetView.swift */; };
+		DAE5C4181F1556A1003C1221 /* AlphabetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAE5C4171F1556A1003C1221 /* AlphabetView.swift */; };
 		DAE5C41A1F158412003C1221 /* informationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAE5C4191F158412003C1221 /* informationView.swift */; };
 /* End PBXBuildFile section */
 
@@ -49,7 +49,7 @@
 		B5036A431F14034A00ACD31C /* Colour SwapUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Colour SwapUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5036A471F14034A00ACD31C /* Colour_SwapUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colour_SwapUITests.swift; sourceTree = "<group>"; };
 		B5036A491F14034A00ACD31C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		DAE5C4171F1556A1003C1221 /* AlhpabetView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlhpabetView.swift; sourceTree = "<group>"; };
+		DAE5C4171F1556A1003C1221 /* AlphabetView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlphabetView.swift; sourceTree = "<group>"; };
 		DAE5C4191F158412003C1221 /* informationView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = informationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -105,7 +105,7 @@
 				B5036A271F14034A00ACD31C /* AppDelegate.swift */,
 				B5036A2B1F14034A00ACD31C /* Main.storyboard */,
 				DAE5C4191F158412003C1221 /* informationView.swift */,
-				DAE5C4171F1556A1003C1221 /* AlhpabetView.swift */,
+				DAE5C4171F1556A1003C1221 /* AlphabetView.swift */,
 				B5036A2E1F14034A00ACD31C /* Assets.xcassets */,
 				B5036A301F14034A00ACD31C /* LaunchScreen.storyboard */,
 				B5036A331F14034A00ACD31C /* Info.plist */,
@@ -267,7 +267,7 @@
 			files = (
 				B5036A2A1F14034A00ACD31C /* ViewController.swift in Sources */,
 				DAE5C41A1F158412003C1221 /* informationView.swift in Sources */,
-				DAE5C4181F1556A1003C1221 /* AlhpabetView.swift in Sources */,
+				DAE5C4181F1556A1003C1221 /* AlphabetView.swift in Sources */,
 				B5036A281F14034A00ACD31C /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
